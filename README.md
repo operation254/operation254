@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming as a beginner
 - 🌱 I’m currently learning how to code an app and publish it.
 - 💞️ I’m looking to collaborate on extensive coding in javascript, kotlin and css
-- 📫 How to reach me ... Just email me @ dr.catejackson@gmail.com
 
 <!---
 operation254/operation254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
